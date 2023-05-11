@@ -15,6 +15,6 @@ Pindah ke paling atas di manglenya
 
 ```
 /queue simple
-add max-limit=5M/5M name=ICMP_Priority packet-marks=icmp_pkts target=""
+add max-limit=5M/5M name=ICMP_Priority packet-marks=icmp_pkts target="" comment="Bypass Ping"
 ```
 Pindahkan ke paling atas di Simple Queues nya
