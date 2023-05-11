@@ -1,5 +1,7 @@
 # bypass ping mikrotik
 
+Youtube Test
+https://youtu.be/UaUvSjAUkuY
 
 ```
 /ip firewall mangle
